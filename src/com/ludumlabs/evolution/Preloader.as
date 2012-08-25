@@ -6,7 +6,7 @@ package com.ludumlabs.evolution
 	{
 		public function Preloader()
 		{
-			className = ".";
+			className = "com.ludumlabs.evolution.EvolutionMain";
 			super();
 		}
 	}
