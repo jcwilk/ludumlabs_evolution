@@ -7,3 +7,11 @@ bin-release/
 .flexProperties
 .settings/
 .project
+
+# Flash CS cache
+SymDepend.cache
+
+# Vim temp files
+*.swp
+*.swo
+*.swn
